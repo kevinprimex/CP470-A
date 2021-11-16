@@ -34,7 +34,7 @@
     <string name="op_1_selected_toast">已选择选项 1。</string>
     <string name="op_1_selected_snack">您选择了第 1 项</string>
     <string name="part_four_msg">1.0 版，作者：Xie, Kevin</string>
-    <string name="floating_button_msg">浮动按钮已被点击...</string>
+    <string name="floating_button_msg">浮动按钮已被点击</string>
     <string name="set_msg_dialog_title">设置信息</string>
     <string name="set_msg_dialog_msg">设置您希望第一个菜单按钮显示的消息。</string>
     <string name="set_msg_no_choice">取消</string>
